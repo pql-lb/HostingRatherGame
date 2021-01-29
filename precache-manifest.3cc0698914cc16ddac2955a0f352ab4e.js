@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "143161b35a1b6cc398a5ab3decffed56",
+    "revision": "7d158389bb658d1ca24acdb33bb79c94",
     "url": "/HostingRatherGame/index.html"
   },
   {
-    "revision": "7ed4e160082c349feb68",
+    "revision": "3cadeb670878e8f6cb47",
     "url": "/HostingRatherGame/static/css/main.7bf7e341.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HostingRatherGame/static/js/2.077ba068.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ed4e160082c349feb68",
-    "url": "/HostingRatherGame/static/js/main.31913bfb.chunk.js"
+    "revision": "3cadeb670878e8f6cb47",
+    "url": "/HostingRatherGame/static/js/main.c0084ff1.chunk.js"
   },
   {
     "revision": "db43d52fd85420451a8f",
