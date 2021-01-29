@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HostingRatherGame/precache-manifest.3cc0698914cc16ddac2955a0f352ab4e.js"
+  "/HostingRatherGame/precache-manifest.9ae41b708a09027536b4591a27c5e5ac.js"
 );
 
 self.addEventListener('message', (event) => {
