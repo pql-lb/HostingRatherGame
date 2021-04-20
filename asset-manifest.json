@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/HostingRatherGame/static/css/main.7d2b9f87.chunk.css",
-    "main.js": "/HostingRatherGame/static/js/main.74b28b45.chunk.js",
-    "main.js.map": "/HostingRatherGame/static/js/main.74b28b45.chunk.js.map",
+    "main.js": "/HostingRatherGame/static/js/main.071d0256.chunk.js",
+    "main.js.map": "/HostingRatherGame/static/js/main.071d0256.chunk.js.map",
     "runtime-main.js": "/HostingRatherGame/static/js/runtime-main.36bf4983.js",
     "runtime-main.js.map": "/HostingRatherGame/static/js/runtime-main.36bf4983.js.map",
-    "static/js/2.ea9a6624.chunk.js": "/HostingRatherGame/static/js/2.ea9a6624.chunk.js",
-    "static/js/2.ea9a6624.chunk.js.map": "/HostingRatherGame/static/js/2.ea9a6624.chunk.js.map",
+    "static/js/2.49be1143.chunk.js": "/HostingRatherGame/static/js/2.49be1143.chunk.js",
+    "static/js/2.49be1143.chunk.js.map": "/HostingRatherGame/static/js/2.49be1143.chunk.js.map",
     "index.html": "/HostingRatherGame/index.html",
-    "precache-manifest.aba1b81168759a18980f4a461324f188.js": "/HostingRatherGame/precache-manifest.aba1b81168759a18980f4a461324f188.js",
+    "precache-manifest.55e48cc4cbd93d6cd324cf60ea8b7fde.js": "/HostingRatherGame/precache-manifest.55e48cc4cbd93d6cd324cf60ea8b7fde.js",
     "service-worker.js": "/HostingRatherGame/service-worker.js",
     "static/css/main.7d2b9f87.chunk.css.map": "/HostingRatherGame/static/css/main.7d2b9f87.chunk.css.map",
-    "static/js/2.ea9a6624.chunk.js.LICENSE.txt": "/HostingRatherGame/static/js/2.ea9a6624.chunk.js.LICENSE.txt",
+    "static/js/2.49be1143.chunk.js.LICENSE.txt": "/HostingRatherGame/static/js/2.49be1143.chunk.js.LICENSE.txt",
     "static/media/dog.png": "/HostingRatherGame/static/media/dog.548a659c.png",
     "static/media/elephant.png": "/HostingRatherGame/static/media/elephant.2eaee86e.png",
     "static/media/monkey.png": "/HostingRatherGame/static/media/monkey.68a5aa10.png"
   },
   "entrypoints": [
     "static/js/runtime-main.36bf4983.js",
-    "static/js/2.ea9a6624.chunk.js",
+    "static/js/2.49be1143.chunk.js",
     "static/css/main.7d2b9f87.chunk.css",
-    "static/js/main.74b28b45.chunk.js"
+    "static/js/main.071d0256.chunk.js"
   ]
 }
