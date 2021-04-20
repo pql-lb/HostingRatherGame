@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HostingRatherGame/static/css/main.7d2b9f87.chunk.css",
-    "main.js": "/HostingRatherGame/static/js/main.a0e678fb.chunk.js",
-    "main.js.map": "/HostingRatherGame/static/js/main.a0e678fb.chunk.js.map",
+    "main.js": "/HostingRatherGame/static/js/main.1fc0c129.chunk.js",
+    "main.js.map": "/HostingRatherGame/static/js/main.1fc0c129.chunk.js.map",
     "runtime-main.js": "/HostingRatherGame/static/js/runtime-main.36bf4983.js",
     "runtime-main.js.map": "/HostingRatherGame/static/js/runtime-main.36bf4983.js.map",
     "static/js/2.49be1143.chunk.js": "/HostingRatherGame/static/js/2.49be1143.chunk.js",
     "static/js/2.49be1143.chunk.js.map": "/HostingRatherGame/static/js/2.49be1143.chunk.js.map",
     "index.html": "/HostingRatherGame/index.html",
-    "precache-manifest.90f31286455e10ab98023a3bf4d8b38a.js": "/HostingRatherGame/precache-manifest.90f31286455e10ab98023a3bf4d8b38a.js",
+    "precache-manifest.62b627692591322ed8c33759376e71cb.js": "/HostingRatherGame/precache-manifest.62b627692591322ed8c33759376e71cb.js",
     "service-worker.js": "/HostingRatherGame/service-worker.js",
     "static/css/main.7d2b9f87.chunk.css.map": "/HostingRatherGame/static/css/main.7d2b9f87.chunk.css.map",
     "static/js/2.49be1143.chunk.js.LICENSE.txt": "/HostingRatherGame/static/js/2.49be1143.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.36bf4983.js",
     "static/js/2.49be1143.chunk.js",
     "static/css/main.7d2b9f87.chunk.css",
-    "static/js/main.a0e678fb.chunk.js"
+    "static/js/main.1fc0c129.chunk.js"
   ]
 }
